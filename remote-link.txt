@@ -1,0 +1,5 @@
+https://perfume-psi-presenting-given.trycloudflare.com
+📱 Samsung Galaxy S10 Android 9.0 (DOCKER FIXED, High RAM/CPU)
+🔧 Docker run command resolved
+⚡ Fast ADB detection
+⏰ Started: Sun Oct  5 07:41:19 UTC 2025
